@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30.04.2018, 19:59:00
+    Author     : Didier MEO
+*/
+
+table {background: blue;}
+th {color: purple; background: #FFBBAA;}
+td {color: purple; background: #FFEEBB;}
+
+ #meodiv01
+ { background-color: silver; } 
+ #meodiv01 h1 { color: blue; font-size: 15pt; } 
+ #meodiv01 p {color: red; font-size: 10pt; }
+
+.boldred { font-family: serif; font-size: 20pt; color: red; }
+.meocol1 {background-color:burlywood; color:buttonface; font-weight: bolder}
+.meocol2 {background-color:silver; font-size: 25pt; color:blue;}
